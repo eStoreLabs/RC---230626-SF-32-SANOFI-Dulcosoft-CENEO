@@ -443,6 +443,7 @@
   color: #fff;
   font-size: calc(1.3 * clamp(12px, 9.722px + 0.6329vw, 16px));
   margin-top: 10px;
+  font-weight: 500;
 }
 @media (min-width: 992px) {
   #es-rc #es-rc-content .es-dose__name {
@@ -452,6 +453,7 @@
 #es-rc #es-rc-content .es-dose__description {
   color: #000;
   margin-block: 7px;
+  font-weight: 500;
 }
 @media (min-width: 992px) {
   #es-rc #es-rc-content .es-dose__description {
